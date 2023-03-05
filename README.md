@@ -6,7 +6,7 @@
 *  Change the Style.css sheet so that my changes in the HTML would be match up and not effect the outcome of the project. while also added notes to what changes i made to HTML and the CSS.
 *  alot of condensing was done to cut out unnecessary "created classes"
 *  upload the work site to Github and make a working link on Gitpages to open it up on the web.
-## Deployed Application URL: 
+## Deployed Application URL: https://jzamorano20.github.io/First-try-myself/
 
 
 ## Usage
